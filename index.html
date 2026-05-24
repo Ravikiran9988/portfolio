@@ -596,6 +596,10 @@ footer a{color:var(--gold);text-decoration:none;}
 
 /* ── SCROLLBAR ── */
 ::-webkit-scrollbar{width:3px;}
+@media(max-width:900px){
+  #cursor,#cursor-ring{display:none !important;}
+  body{cursor:auto;}
+}
 ::-webkit-scrollbar-track{background:var(--bg);}
 ::-webkit-scrollbar-thumb{background:var(--gold);}
 
@@ -1068,7 +1072,8 @@ footer a{color:var(--gold);text-decoration:none;}
 </footer>
 
 <script>
-// Custom cursor
+// Custom cursor — desktop only
+if(window.matchMedia('(pointer:fine)').matches){
 const cursor = document.getElementById('cursor');
 const ring = document.getElementById('cursor-ring');
 let mx=0,my=0,rx=0,ry=0;
@@ -1082,6 +1087,7 @@ function animRing(){
   requestAnimationFrame(animRing);
 }
 animRing();
+} // end desktop cursor
 
 // Nav scroll
 const nav=document.getElementById('nav');
