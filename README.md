@@ -65,14 +65,13 @@ A FastAPI-powered backend system supporting menu management, order processing, a
 
 ## Connect With Me
 
-💼 LinkedIn: [www.linkedin.com/in/medicharla-ravi-kiran](http://www.linkedin.com/in/medicharla-ravi-kiran)
+💼 LinkedIn: [Medicharla Ravi Kiran](https://www.linkedin.com/in/medicharla-ravi-kiran/)
 
-🌐 Portfolio: ravikiran9988.github.io/portfolio
+🌐 Portfolio: [ravikiran9988.github.io/portfolio](https://ravikiran9988.github.io/portfolio/)
 
-🐙 GitHub: github.com/Ravikiran9988
+🐙 GitHub: [Ravikiran9988](https://github.com/Ravikiran9988)
 
 📧 Email: [medicharlaravikiran88@gmail.com](mailto:medicharlaravikiran88@gmail.com)
-
 ---
 
 *"I enjoy building things that start as ideas and end up solving real-world problems."*
