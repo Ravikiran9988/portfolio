@@ -8,7 +8,7 @@ What excites me most is taking an idea, breaking it down into smaller problems, 
 
 ## About Me
 
-* 🎓 B.Tech Computer Science Engineering (2026)
+* 🎓 B.Tech Computer Science Engineering
 * 💻 Full-Stack Developer
 * 🤖 AI & Automation Enthusiast
 * 🌱 Constantly learning and building
